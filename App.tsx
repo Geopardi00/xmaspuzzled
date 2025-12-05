@@ -46,7 +46,7 @@ const LEVELS: LevelConfig[] = [
       {
         id: "L3A",
         imageSrc: IMAGES.LEVEL_3_A,
-        hint: "Who are they?",
+        hint: "Adrian!!!",
         layout: "split",
         inputs: [
           { id: "l3a_1", expected: "Rocky" },
